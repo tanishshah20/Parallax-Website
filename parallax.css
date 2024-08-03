@@ -79,11 +79,11 @@ section > h1{
     font-family: Verdana;
 }
 .b1{
-    background-image: url(http://127.0.0.1:52630/Misson%20MAANG/Parallax%20Website/img/Biking.jpg);
+    background-image: url(img/Biking.jpg);
 }
 .b2{
-    background-image: url(http://127.0.0.1:52630/Misson%20MAANG/Parallax%20Website/img/paragliding.jpg);
+    background-image: url(img/paragliding.jpg);
 }
 .b3{
-    background-image: url(http://127.0.0.1:52630/Misson%20MAANG/Parallax%20Website/img/surfing.jpeg);
+    background-image: url(img/surfing.jpeg);
 }
